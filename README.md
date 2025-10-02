@@ -22,8 +22,8 @@ ZenelephantXR Studios (“we,” “us,” or “our”) respects your privacy. 
 - [Your Choices & Controls](#your-choices--controls)
 - [Children’s Privacy](#childrens-privacy)
 - [Third Parties](#third-parties)
-- [Online Leaderboard Feature](#online_leaderboard_feature)
-- [International Use](#international-use)
+- [Online Leaderboard Feature](#online-leaderboard-feature)
+  - [Legal Basis (EU/EEA users)](#legal-basis-eueea-users)
 - [Changes to This Policy](#changes-to-this-policy)
 - [Contact Us](#contact-us)
 
